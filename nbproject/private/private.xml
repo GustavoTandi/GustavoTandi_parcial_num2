@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/modelo/Cliente.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/vista/SalaView.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/vista/CompraView.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/modelo/Cine.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/persistencia/PersistenciaDatos.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/modelo/Butaca.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/modelo/Sala.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/modelo/Entrada.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/controlador/LoginController.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/controlador/CompraController.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/controlador/SalaController.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/vista/LoginView.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/Main.java</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/nbproject/project.properties</file>
+            <file>file:/C:/Users/Usuario/Documents/NetBeansProjects/Par_2_325/src/cine/imagenes/carteleraDbs.jpg</file>
+        </group>
+    </open-files>
+</project-private>
